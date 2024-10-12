@@ -1,5 +1,5 @@
-media-user-token: "your-media-user-token" #If you need to obtain the lyrics, need to change it
-authorization-token: "your-authorization-token" #You don't need to change it; it can automatically obtain token
+media-user-token: "Ai2cINdh/Tzu3+OvnY8tbXY41QyK5gEWEuMMxBn/7gZvQPeX5jjVEW5hxh0ZBt+ou+IFPoyWWpy4JNxBdIg4jNqGV122iH3epe7wzj2E0ZaKj2fNwYiCajxRuXgA7wOcWz3RBIHEQthY7LTNzB6rlaP5kKwbhv7/FohGCOEbOaA/krvhdr2SpZMl9nVpw/LG1/sOj8yGOfbGkU+hUCpwqAZXbd/PXj9pjaJ8F5mjTeCIvdLOCg==" #If you need to obtain the lyrics, need to change it
+authorization-token: "AAAAAAAAAAKjxkKobZEkQODPyNFkZpf+tJAThSJgNnJdhlvxAWyLMQl25bb4AVcZBpRBoM2XkjKZtW8/z3QtRB/UyjMlDvLcTeFsIhixW+Lr7mfdt3nzMx9rmfB5Gvx8v6SHiRObWgCxnEUE7dMSbsu9kSfINkxizwuf6KCZr/fz1dWEMXI0fxKEfpAoHVFXTGBYdBFd1Q9/ZhMiwMWIAjji2tjxJTWcWC6Av7c9JPVi4nwz8mZPiq/jansgMhKbdxgXL1ifQlD5SI+fCYHy0vMH2NV5/Z8a4f7EvppNPNhf2GgylZDtUA==" #You don't need to change it; it can automatically obtain token
 language: ""         #supportedLanguage by each storefront --> https://gist.github.com/itouakirai/c8ba9df9dc65bd300094103b058731d0
 lrc-type: "lyrics"   #lyrics or syllable-lyrics
 lrc-format: "lrc"   #lrc or ttml
